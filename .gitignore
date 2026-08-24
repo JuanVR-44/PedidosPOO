@@ -1,0 +1,23 @@
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Maven
+/target/
+
+# IDE
+/.idea/
+/.vscode/
+
+# Compilación
+*.class
+
+# Logs
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
